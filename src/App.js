@@ -9,6 +9,7 @@ class App extends Component {
       <div className="App">
         <header className="App-header">
           <img src={logo} className="App-logo" alt="logo" />
+          <div>A test of a commit</div>
           <Signup createAccount={() => {}} />
         </header>
       </div>
